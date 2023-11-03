@@ -1,6 +1,7 @@
 # 🐻‍❄️ jaketheqa
-QA Engineer. S.Korea.
-(Dev version account : https://github.com/jamongK)
+QA Engineer. S.Korea. <br>
+
+<br>
 
 ## Tech Stack
 #### Main Stack
@@ -70,3 +71,5 @@ QA Engineer. S.Korea.
 
 &nbsp;
 
+## Another Account
+[https://github.com/jamongK](https://github.com/jamongK)
