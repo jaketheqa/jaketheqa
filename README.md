@@ -112,5 +112,3 @@ QA Engineer. S.Korea. <br>
 
 &nbsp;
 
-## Another Account
-:tangerine:[https://github.com/jamongK](https://github.com/jamongK)
